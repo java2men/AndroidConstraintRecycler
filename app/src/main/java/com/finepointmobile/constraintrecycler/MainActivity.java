@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         mDataset = new ArrayList<>();
-        for (int i = 0; i < 50; i++) {
+        for (int i = 0; i < 500; i++) {
             mDataset.add("Welcome to # " + i);
         }
 
