@@ -1,0 +1,2 @@
+# AndroidConstraintRecycler
+ConstraintLayout freezes
